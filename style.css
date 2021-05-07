@@ -3,6 +3,18 @@ body{
     font-family: 'Ubuntu Mono', monospace;
 }
 
+.results{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cat-pic{
+    width: 25%;
+    margin: auto;
+}
+
 .container{
     width: 80%;
     display: flex;
@@ -55,5 +67,9 @@ td{
         text-align: center;
         /* overflow-x: scroll;
         scrollbar-width: 0; */
+    }
+
+    .cat-pic{
+        width: 100%;
     }
 }

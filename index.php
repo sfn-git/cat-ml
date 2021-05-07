@@ -36,7 +36,7 @@
         <p><a href="https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset" target="_blank">Dataset Used.</a> Images of cats were retained in this dataset. Each class was trained with 195 images. Dataset originally contained 200 images but 5 were taken from each class as separate confirmation.</p>
         <h3 class='text-center'>Upload an image of a cat. (.png, .jpg, .jpeg)</h3>
         <input type="file" name="picture" id="picture"><br><br>
-        <button type="submit" onclick="processImage()" style="width:20px; height: 100px; display: none;" id="uploadButton">Upload File!</button>
+        <button type="submit" onclick="processImage()" style="width:25%; height: 100px; display: none;" id="uploadButton">Upload File!</button>
     </div>
     <h1 id="demo-images">Demo Images (Click an image)</h1>
     <div class="container">
