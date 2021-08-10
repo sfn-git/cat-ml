@@ -5,4 +5,4 @@ A class assignment that involved training a model to predict the accuracy of 12 
 ## [Images Source](https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
 Images of cats were retained in this dataset. Each class was trained with 195 images. Dataset originally contained 200 images but 5 were taken from each class as separate confirmation.
 
-## [Demo Site](https://syedfahadnadeem.com/projects/cat-ml/)
+## [Demo Site](https://projects.syedfahadnadeem.com/projects/cat-ml/)
